@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <name>GccExample Config DSL Script</name>
-  <groupId>GccExample</groupId>
-  <artifactId>GccExample_dsl</artifactId>
+  <name>metaProject</name>
+  <groupId>metaProject</groupId>
+  <artifactId>metaProject_dsl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
